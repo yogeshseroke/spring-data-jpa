@@ -1,0 +1,5 @@
+com\dev2pro\springdatajpa\service\EmployeeService.class
+com\dev2pro\springdatajpa\SpringDataJpaApplication.class
+com\dev2pro\springdatajpa\controller\EmployeeController.class
+com\dev2pro\springdatajpa\entity\Employee.class
+com\dev2pro\springdatajpa\repository\EmployeeRepository.class
